@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/amadoflix/static/js/main.b6403b8e.chunk.js",
-    "main.js.map": "/amadoflix/static/js/main.b6403b8e.chunk.js.map",
+    "main.js": "/amadoflix/static/js/main.c952b457.chunk.js",
+    "main.js.map": "/amadoflix/static/js/main.c952b457.chunk.js.map",
     "runtime-main.js": "/amadoflix/static/js/runtime-main.270deb5a.js",
     "runtime-main.js.map": "/amadoflix/static/js/runtime-main.270deb5a.js.map",
     "static/js/2.f3c355bc.chunk.js": "/amadoflix/static/js/2.f3c355bc.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.270deb5a.js",
     "static/js/2.f3c355bc.chunk.js",
-    "static/js/main.b6403b8e.chunk.js"
+    "static/js/main.c952b457.chunk.js"
   ]
 }
